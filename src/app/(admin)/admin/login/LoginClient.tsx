@@ -1,9 +1,13 @@
 "use client";
 
 import { useState } from "react";
-import { signInWithEmailAndPassword, setPersistence, browserSessionPersistence } from "firebase/auth";
+import {
+  signInWithEmailAndPassword,
+  setPersistence,
+  browserLocalPersistence,
+} from "firebase/auth";
 import { useRouter } from "next/navigation";
-import { firebaseAuth } from "@/lib/firebase-client";
+import { auth } from "@/lib/firebase-client";
 
 type Props = {
   firebaseConfig: {
@@ -30,8 +34,8 @@ export function LoginClient({ firebaseConfig, missing }: Props) {
     try {
       if (!firebaseConfig) throw new Error("Firebase config missing");
 
-      await setPersistence(firebaseAuth, browserSessionPersistence);
-      const creds = await signInWithEmailAndPassword(firebaseAuth, email.trim(), password);
+      await setPersistence(auth, browserLocalPersistence);
+      const creds = await signInWithEmailAndPassword(auth, email.trim(), password);
       const idToken = await creds.user.getIdToken(true);
       const res = await fetch("/api/auth/session", {
         method: "POST",
