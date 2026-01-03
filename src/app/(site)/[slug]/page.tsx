@@ -1,6 +1,6 @@
 import { notFound, redirect } from "next/navigation";
 import { headers } from "next/headers";
-import { adminDb } from "@/lib/firebase-admin";
+import { getAdminDb } from "@/lib/firebase-admin";
 import { getSiteSettings } from "@/lib/settings";
 import { resolveBaseUrl } from "@/lib/env";
 import { applyTemplate } from "@/lib/seo";
@@ -33,7 +33,7 @@ export default async function SlugPage({ params }: { params: Promise<{ slug: str
   if (!s) return notFound();
 
   // DOC-ID based lookup (canonical)
-  const snap = await adminDb.collection("pages").doc(s).get();
+  const snap = await getAdminDb().collection("pages").doc(s).get();
 
   if (!snap.exists) {
     return notFound();
@@ -65,7 +65,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const decoded = decodeURIComponent(slug || "");
   if (!decoded) return {};
 
-  const snap = await adminDb.collection("pages").doc(decoded).get();
+  const snap = await getAdminDb().collection("pages").doc(decoded).get();
   if (!snap.exists) return {};
   const data = snap.data() as any;
   if (data.status !== "published") return {};

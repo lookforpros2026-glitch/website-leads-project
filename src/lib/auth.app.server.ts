@@ -1,5 +1,5 @@
 import { cookies } from "next/headers";
-import { adminAuth } from "./firebase-admin";
+import { getAdminAuth } from "./firebase-admin";
 import { resolveAdminFromDecoded } from "./admin-authz";
 
 export const SESSION_COOKIE_NAME = "session";
@@ -14,7 +14,7 @@ export async function getAdminFromAppCookies(): Promise<SessionAdmin | null> {
     "";
   if (!session) return null;
   try {
-    const decoded = await adminAuth.verifySessionCookie(session, true);
+    const decoded = await getAdminAuth().verifySessionCookie(session, true);
     const admin = await resolveAdminFromDecoded(decoded);
     if (!admin) return null;
     return admin;

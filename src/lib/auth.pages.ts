@@ -1,5 +1,5 @@
 import type { NextApiRequest } from "next";
-import { adminAuth } from "./firebase-admin";
+import { getAdminAuth } from "./firebase-admin";
 import { resolveAdminFromDecoded } from "./admin-authz";
 
 function readCookie(req: NextApiRequest, name: string) {
@@ -16,7 +16,7 @@ function readCookie(req: NextApiRequest, name: string) {
 export async function getAdminFromPagesReq(req: NextApiRequest) {
   const token = readCookie(req, "sylor_session") || readCookie(req, "session") || "";
   if (!token) return null;
-  const decoded = await adminAuth.verifySessionCookie(token, true).catch(() => null);
+  const decoded = await getAdminAuth().verifySessionCookie(token, true).catch(() => null);
   if (!decoded) return null;
   return resolveAdminFromDecoded(decoded);
 }

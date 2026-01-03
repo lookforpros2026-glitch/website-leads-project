@@ -1,3 +1,6 @@
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
+
 import Link from "next/link";
 import { getAdminDb } from "@/lib/firebase-admin";
 import { CardShell } from "@/components/admin/ui";

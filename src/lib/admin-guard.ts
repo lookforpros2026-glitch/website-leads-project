@@ -1,5 +1,5 @@
 import { cookies } from "next/headers";
-import { adminAuth } from "@/lib/firebase-admin";
+import { getAdminAuth } from "@/lib/firebase-admin";
 import { resolveAdminFromDecoded } from "@/lib/admin-authz";
 
 export async function requireAdmin() {
@@ -10,7 +10,7 @@ export async function requireAdmin() {
   }
 
   try {
-    const decoded = await adminAuth.verifySessionCookie(session, true);
+    const decoded = await getAdminAuth().verifySessionCookie(session, true);
     const admin = await resolveAdminFromDecoded(decoded);
     if (!admin) {
       const email = (decoded.email || "").toLowerCase();

@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { adminDb } from "@/lib/firebase-admin";
+import { getAdminDb } from "@/lib/firebase-admin";
 import { requireAdmin } from "@/lib/admin/authz";
 
 export async function GET(req: Request) {
@@ -15,7 +15,7 @@ export async function GET(req: Request) {
   const cursor = url.searchParams.get("cursor");
 
   try {
-    let q = adminDb
+    let q = getAdminDb()
       .collection("geo_cities")
       .where("state", "==", state)
       .orderBy("search", "asc")
@@ -23,7 +23,7 @@ export async function GET(req: Request) {
       .limit(limit);
 
     if (countySlug) {
-      q = adminDb
+      q = getAdminDb()
         .collection("geo_cities")
         .where("state", "==", state)
         .where("countySlug", "==", countySlug)
@@ -35,7 +35,7 @@ export async function GET(req: Request) {
     if (cursor) {
       const [searchCursor, nameCursor] = cursor.split("|");
       if (searchCursor && nameCursor) {
-        const docRef = adminDb.collection("geo_cities").doc(nameCursor);
+        const docRef = getAdminDb().collection("geo_cities").doc(nameCursor);
         const docSnap = await docRef.get();
         if (docSnap.exists) {
           q = q.startAfter(searchCursor, nameCursor);

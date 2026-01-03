@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { adminDb } from "@/lib/firebase-admin";
+import { getAdminDb } from "@/lib/firebase-admin";
 import { requireAdmin } from "@/lib/admin/authz";
 
 function normalizeQuery(q: string) {
@@ -23,7 +23,7 @@ export async function GET(req: Request) {
     }
 
     const firstToken = q.split(" ")[0];
-    const snap = await adminDb
+    const snap = await getAdminDb()
       .collection("geo_cities")
       .where("state", "==", "CA")
       .orderBy("search", "asc")

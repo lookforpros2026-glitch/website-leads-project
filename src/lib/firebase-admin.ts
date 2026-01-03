@@ -57,6 +57,3 @@ export function getAdminStorageBucket(): Bucket {
   }
   return app.storage().bucket(bucketName);
 }
-
-export const adminDb = getAdminDb();
-export const adminAuth = getAdminAuth();

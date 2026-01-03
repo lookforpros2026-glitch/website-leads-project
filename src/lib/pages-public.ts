@@ -1,10 +1,10 @@
-import { adminDb } from "@/lib/firebase-admin";
+import { getAdminDb } from "@/lib/firebase-admin";
 
 export async function getPageBySlug(slug: string) {
   const slugLower = (slug || "").trim().toLowerCase();
   if (!slugLower) return null;
 
-  const snap = await adminDb
+  const snap = await getAdminDb()
     .collection("pages")
     .where("slugLower", "==", slugLower)
     .limit(1)

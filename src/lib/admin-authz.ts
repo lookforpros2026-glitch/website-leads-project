@@ -1,4 +1,4 @@
-import { adminDb } from "@/lib/firebase-admin";
+import { getAdminDb } from "@/lib/firebase-admin";
 
 type AdminAllowlistEntry = {
   uid: string;
@@ -17,7 +17,7 @@ function cleanEmail(email?: string) {
 }
 
 async function loadAllowlist(): Promise<AdminAllowlistEntry[]> {
-  const snap = await adminDb.collection("admins").get();
+  const snap = await getAdminDb().collection("admins").get();
   return snap.docs.map((doc) => ({ uid: doc.id, ...(doc.data() as any) }));
 }
 
