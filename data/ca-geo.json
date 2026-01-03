@@ -1,0 +1,133 @@
+{
+  "state": {
+    "id": "CA",
+    "name": "California",
+    "abbr": "CA",
+    "fips": "06"
+  },
+  "counties": [
+    {
+      "countyId": "ca-los-angeles",
+      "countyName": "Los Angeles County",
+      "fips": "037",
+      "cities": [
+        { "cityId": "ca-los-angeles-los-angeles", "cityName": "Los Angeles", "slug": "los-angeles" },
+        { "cityId": "ca-los-angeles-long-beach", "cityName": "Long Beach", "slug": "long-beach" },
+        { "cityId": "ca-los-angeles-glendale", "cityName": "Glendale", "slug": "glendale" },
+        { "cityId": "ca-los-angeles-pasadena", "cityName": "Pasadena", "slug": "pasadena" },
+        { "cityId": "ca-los-angeles-santa-monica", "cityName": "Santa Monica", "slug": "santa-monica" },
+        { "cityId": "ca-los-angeles-burbank", "cityName": "Burbank", "slug": "burbank" },
+        { "cityId": "ca-los-angeles-inglewood", "cityName": "Inglewood", "slug": "inglewood" },
+        { "cityId": "ca-los-angeles-santa-clarita", "cityName": "Santa Clarita", "slug": "santa-clarita" },
+        { "cityId": "ca-los-angeles-pomona", "cityName": "Pomona", "slug": "pomona" },
+        { "cityId": "ca-los-angeles-torrance", "cityName": "Torrance", "slug": "torrance" }
+      ]
+    },
+    {
+      "countyId": "ca-orange",
+      "countyName": "Orange County",
+      "fips": "059",
+      "cities": [
+        { "cityId": "ca-orange-anaheim", "cityName": "Anaheim", "slug": "anaheim" },
+        { "cityId": "ca-orange-santa-ana", "cityName": "Santa Ana", "slug": "santa-ana" },
+        { "cityId": "ca-orange-irvine", "cityName": "Irvine", "slug": "irvine" },
+        { "cityId": "ca-orange-huntington-beach", "cityName": "Huntington Beach", "slug": "huntington-beach" },
+        { "cityId": "ca-orange-garden-grove", "cityName": "Garden Grove", "slug": "garden-grove" },
+        { "cityId": "ca-orange-fullerton", "cityName": "Fullerton", "slug": "fullerton" },
+        { "cityId": "ca-orange-orange", "cityName": "Orange", "slug": "orange" },
+        { "cityId": "ca-orange-newport-beach", "cityName": "Newport Beach", "slug": "newport-beach" }
+      ]
+    },
+    {
+      "countyId": "ca-san-diego",
+      "countyName": "San Diego County",
+      "fips": "073",
+      "cities": [
+        { "cityId": "ca-san-diego-san-diego", "cityName": "San Diego", "slug": "san-diego" },
+        { "cityId": "ca-san-diego-chula-vista", "cityName": "Chula Vista", "slug": "chula-vista" },
+        { "cityId": "ca-san-diego-oceanside", "cityName": "Oceanside", "slug": "oceanside" },
+        { "cityId": "ca-san-diego-escondido", "cityName": "Escondido", "slug": "escondido" },
+        { "cityId": "ca-san-diego-carlsbad", "cityName": "Carlsbad", "slug": "carlsbad" },
+        { "cityId": "ca-san-diego-encinitas", "cityName": "Encinitas", "slug": "encinitas" }
+      ]
+    },
+    {
+      "countyId": "ca-san-francisco",
+      "countyName": "San Francisco County",
+      "fips": "075",
+      "cities": [
+        { "cityId": "ca-san-francisco-san-francisco", "cityName": "San Francisco", "slug": "san-francisco" }
+      ]
+    },
+    {
+      "countyId": "ca-alameda",
+      "countyName": "Alameda County",
+      "fips": "001",
+      "cities": [
+        { "cityId": "ca-alameda-oakland", "cityName": "Oakland", "slug": "oakland" },
+        { "cityId": "ca-alameda-berkeley", "cityName": "Berkeley", "slug": "berkeley" },
+        { "cityId": "ca-alameda-fremont", "cityName": "Fremont", "slug": "fremont" },
+        { "cityId": "ca-alameda-hayward", "cityName": "Hayward", "slug": "hayward" },
+        { "cityId": "ca-alameda-pleasanton", "cityName": "Pleasanton", "slug": "pleasanton" }
+      ]
+    },
+    {
+      "countyId": "ca-contra-costa",
+      "countyName": "Contra Costa County",
+      "fips": "013",
+      "cities": [
+        { "cityId": "ca-contra-costa-richmond", "cityName": "Richmond", "slug": "richmond" },
+        { "cityId": "ca-contra-costa-concord", "cityName": "Concord", "slug": "concord" },
+        { "cityId": "ca-contra-costa-walnut-creek", "cityName": "Walnut Creek", "slug": "walnut-creek" },
+        { "cityId": "ca-contra-costa-antioch", "cityName": "Antioch", "slug": "antioch" }
+      ]
+    },
+    {
+      "countyId": "ca-santa-clara",
+      "countyName": "Santa Clara County",
+      "fips": "085",
+      "cities": [
+        { "cityId": "ca-santa-clara-san-jose", "cityName": "San Jose", "slug": "san-jose" },
+        { "cityId": "ca-santa-clara-sunnyvale", "cityName": "Sunnyvale", "slug": "sunnyvale" },
+        { "cityId": "ca-santa-clara-santa-clara", "cityName": "Santa Clara", "slug": "santa-clara" },
+        { "cityId": "ca-santa-clara-mountain-view", "cityName": "Mountain View", "slug": "mountain-view" },
+        { "cityId": "ca-santa-clara-palo-alto", "cityName": "Palo Alto", "slug": "palo-alto" }
+      ]
+    },
+    {
+      "countyId": "ca-sacramento",
+      "countyName": "Sacramento County",
+      "fips": "067",
+      "cities": [
+        { "cityId": "ca-sacramento-sacramento", "cityName": "Sacramento", "slug": "sacramento" },
+        { "cityId": "ca-sacramento-elk-grove", "cityName": "Elk Grove", "slug": "elk-grove" },
+        { "cityId": "ca-sacramento-folsom", "cityName": "Folsom", "slug": "folsom" },
+        { "cityId": "ca-sacramento-rancho-cordova", "cityName": "Rancho Cordova", "slug": "rancho-cordova" }
+      ]
+    },
+    {
+      "countyId": "ca-san-bernardino",
+      "countyName": "San Bernardino County",
+      "fips": "071",
+      "cities": [
+        { "cityId": "ca-san-bernardino-san-bernardino", "cityName": "San Bernardino", "slug": "san-bernardino" },
+        { "cityId": "ca-san-bernardino-fontana", "cityName": "Fontana", "slug": "fontana" },
+        { "cityId": "ca-san-bernardino-rancho-cucamonga", "cityName": "Rancho Cucamonga", "slug": "rancho-cucamonga" },
+        { "cityId": "ca-san-bernardino-ontario", "cityName": "Ontario", "slug": "ontario" },
+        { "cityId": "ca-san-bernardino-redlands", "cityName": "Redlands", "slug": "redlands" }
+      ]
+    },
+    {
+      "countyId": "ca-riverside",
+      "countyName": "Riverside County",
+      "fips": "065",
+      "cities": [
+        { "cityId": "ca-riverside-riverside", "cityName": "Riverside", "slug": "riverside" },
+        { "cityId": "ca-riverside-moreno-valley", "cityName": "Moreno Valley", "slug": "moreno-valley" },
+        { "cityId": "ca-riverside-corona", "cityName": "Corona", "slug": "corona" },
+        { "cityId": "ca-riverside-temecula", "cityName": "Temecula", "slug": "temecula" },
+        { "cityId": "ca-riverside-murrieta", "cityName": "Murrieta", "slug": "murrieta" }
+      ]
+    }
+  ]
+}

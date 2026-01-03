@@ -1,0 +1,39 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isAdmin() {
+      return request.auth != null && exists(/databases/$(database)/documents/admins/$(request.auth.uid));
+    }
+
+    match /pages/{pageId} {
+      allow read: if resource.data.status == "published";
+      allow write: if isAdmin();
+    }
+
+    match /leads/{leadId} {
+      allow create: if true;
+      allow read, update, delete: if false;
+    }
+
+    match /geo_locations/{docId} {
+      allow read, write: if isAdmin();
+    }
+
+    match /tax_services/{docId} {
+      allow read, write: if isAdmin();
+    }
+
+    match /jobs/{jobId} {
+      allow read, write: if isAdmin();
+    }
+
+    match /admins/{uid} {
+      allow read, write: if isAdmin();
+    }
+
+    match /site_settings/{docId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+  }
+}

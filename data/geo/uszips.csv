@@ -1,0 +1,296 @@
+zip,place,county,state,lat,lng
+90001,Los Angeles,Los Angeles,CA,33.97365,-118.24904
+90002,Los Angeles,Los Angeles,CA,33.94906,-118.24679
+90003,Los Angeles,Los Angeles,CA,33.96409,-118.27368
+90004,Los Angeles,Los Angeles,CA,34.07624,-118.31101
+90005,Los Angeles,Los Angeles,CA,34.05939,-118.30909
+90006,Los Angeles,Los Angeles,CA,34.04807,-118.29411
+90007,Los Angeles,Los Angeles,CA,34.02819,-118.28486
+90008,Los Angeles,Los Angeles,CA,34.01037,-118.3428
+90010,Los Angeles,Los Angeles,CA,34.06209,-118.31262
+90011,Los Angeles,Los Angeles,CA,34.00689,-118.25861
+90012,Los Angeles,Los Angeles,CA,34.06679,-118.23878
+90013,Los Angeles,Los Angeles,CA,34.04435,-118.24
+90014,Los Angeles,Los Angeles,CA,34.04302,-118.25182
+90015,Los Angeles,Los Angeles,CA,34.03932,-118.26625
+90016,Los Angeles,Los Angeles,CA,34.02881,-118.35436
+90017,Los Angeles,Los Angeles,CA,34.05306,-118.26447
+90018,Los Angeles,Los Angeles,CA,34.0286,-118.31737
+90019,Los Angeles,Los Angeles,CA,34.04861,-118.33874
+90020,Los Angeles,Los Angeles,CA,34.06638,-118.30986
+90021,Los Angeles,Los Angeles,CA,34.02909,-118.23889
+90022,Los Angeles,Los Angeles,CA,34.02455,-118.15608
+90023,Los Angeles,Los Angeles,CA,34.02264,-118.19986
+90024,Los Angeles,Los Angeles,CA,34.06565,-118.43521
+90025,Los Angeles,Los Angeles,CA,34.04551,-118.44583
+90026,Los Angeles,Los Angeles,CA,34.07883,-118.2637
+90027,Los Angeles,Los Angeles,CA,34.12515,-118.29049
+90028,Los Angeles,Los Angeles,CA,34.09982,-118.3268
+90029,Los Angeles,Los Angeles,CA,34.08983,-118.29467
+90031,Los Angeles,Los Angeles,CA,34.08122,-118.21081
+90032,Los Angeles,Los Angeles,CA,34.0793,-118.17835
+90033,Los Angeles,Los Angeles,CA,34.05117,-118.21165
+90034,Los Angeles,Los Angeles,CA,34.03059,-118.39936
+90035,Los Angeles,Los Angeles,CA,34.05139,-118.38577
+90036,Los Angeles,Los Angeles,CA,34.07013,-118.34978
+90037,Los Angeles,Los Angeles,CA,34.00271,-118.28747
+90038,Los Angeles,Los Angeles,CA,34.08882,-118.32671
+90039,Los Angeles,Los Angeles,CA,34.11242,-118.26153
+90040,Los Angeles,Los Angeles,CA,33.99318,-118.1489
+90041,Los Angeles,Los Angeles,CA,34.13749,-118.20746
+90042,Los Angeles,Los Angeles,CA,34.11475,-118.192
+90043,Los Angeles,Los Angeles,CA,33.98876,-118.33519
+90044,Los Angeles,Los Angeles,CA,33.95253,-118.29194
+90045,Los Angeles,Los Angeles,CA,33.95302,-118.40028
+90046,Los Angeles,Los Angeles,CA,34.10752,-118.36575
+90047,Los Angeles,Los Angeles,CA,33.95456,-118.30899
+90048,Los Angeles,Los Angeles,CA,34.07293,-118.3727
+90049,Los Angeles,Los Angeles,CA,34.08749,-118.48976
+90052,Los Angeles,Los Angeles,CA,33.9783,-118.25891
+90056,Los Angeles,Los Angeles,CA,33.99361,-118.36884
+90057,Los Angeles,Los Angeles,CA,34.06205,-118.27704
+90058,Los Angeles,Los Angeles,CA,34.00264,-118.21452
+90059,Los Angeles,Los Angeles,CA,33.92709,-118.2491
+90061,Los Angeles,Los Angeles,CA,33.92037,-118.27383
+90062,Los Angeles,Los Angeles,CA,34.0035,-118.30904
+90063,Los Angeles,Los Angeles,CA,34.0452,-118.18583
+90064,Los Angeles,Los Angeles,CA,34.0358,-118.42653
+90065,Los Angeles,Los Angeles,CA,34.10867,-118.22813
+90066,Los Angeles,Los Angeles,CA,34.00166,-118.43104
+90067,Los Angeles,Los Angeles,CA,34.0565,-118.41373
+90068,Los Angeles,Los Angeles,CA,34.12794,-118.32914
+90069,West Hollywood,Los Angeles,CA,34.09401,-118.38154
+90071,Los Angeles,Los Angeles,CA,34.05239,-118.25518
+90073,Los Angeles,Los Angeles,CA,34.05738,-118.45956
+90077,Los Angeles,Los Angeles,CA,34.10536,-118.45591
+90079,Los Angeles,Los Angeles,CA,34.04058,-118.25541
+90089,Los Angeles,Los Angeles,CA,34.02158,-118.2856
+90094,Playa Vista,Los Angeles,CA,33.97523,-118.41837
+90095,Los Angeles,Los Angeles,CA,34.07121,-118.44334
+90201,Bell Gardens,Los Angeles,CA,33.97113,-118.1709
+90210,Beverly Hills,Los Angeles,CA,34.10251,-118.41505
+90211,Beverly Hills,Los Angeles,CA,34.06498,-118.38293
+90212,Beverly Hills,Los Angeles,CA,34.06208,-118.40173
+90220,Compton,Los Angeles,CA,33.88058,-118.23591
+90221,Compton,Los Angeles,CA,33.88542,-118.20614
+90222,Compton,Los Angeles,CA,33.91213,-118.23721
+90230,Culver City,Los Angeles,CA,33.99691,-118.39487
+90232,Culver City,Los Angeles,CA,34.01859,-118.39157
+90240,Downey,Los Angeles,CA,33.9564,-118.11803
+90241,Downey,Los Angeles,CA,33.94076,-118.1295
+90242,Downey,Los Angeles,CA,33.92216,-118.14167
+90245,El Segundo,Los Angeles,CA,33.91709,-118.40161
+90247,Gardena,Los Angeles,CA,33.89159,-118.29735
+90248,Gardena,Los Angeles,CA,33.87689,-118.28362
+90249,Gardena,Los Angeles,CA,33.90152,-118.31707
+90250,Hawthorne,Los Angeles,CA,33.91383,-118.34996
+90254,Hermosa Beach,Los Angeles,CA,33.86532,-118.39616
+90255,Huntington Park,Los Angeles,CA,33.97697,-118.21725
+90260,Lawndale,Los Angeles,CA,33.88768,-118.34952
+90262,Lynwood,Los Angeles,CA,33.92384,-118.20133
+90263,Malibu,Los Angeles,CA,34.03919,-118.70809
+90265,Malibu,Los Angeles,CA,34.07282,-118.84995
+90266,Manhattan Beach,Los Angeles,CA,33.88968,-118.39705
+90270,Maywood,Los Angeles,CA,33.98856,-118.18774
+90272,Pacific Palisades,Los Angeles,CA,34.08066,-118.54459
+90274,Palos Verdes Peninsula,Los Angeles,CA,33.77732,-118.3684
+90275,Rancho Palos Verdes,Los Angeles,CA,33.7555,-118.36338
+90277,Redondo Beach,Los Angeles,CA,33.83099,-118.38441
+90278,Redondo Beach,Los Angeles,CA,33.87362,-118.37028
+90280,South Gate,Los Angeles,CA,33.94453,-118.19256
+90290,Topanga,Los Angeles,CA,34.09725,-118.6125
+90291,Venice,Los Angeles,CA,33.99447,-118.46315
+90292,Marina Del Rey,Los Angeles,CA,33.97865,-118.44707
+90293,Playa Del Rey,Los Angeles,CA,33.95071,-118.43745
+90301,Inglewood,Los Angeles,CA,33.95647,-118.35863
+90302,Inglewood,Los Angeles,CA,33.97472,-118.35565
+90303,Inglewood,Los Angeles,CA,33.93601,-118.33112
+90304,Inglewood,Los Angeles,CA,33.93736,-118.35879
+90305,Inglewood,Los Angeles,CA,33.9583,-118.33113
+90401,Santa Monica,Los Angeles,CA,34.01584,-118.49251
+90402,Santa Monica,Los Angeles,CA,34.03598,-118.50391
+90403,Santa Monica,Los Angeles,CA,34.03164,-118.48975
+90404,Santa Monica,Los Angeles,CA,34.02665,-118.47381
+90405,Santa Monica,Los Angeles,CA,34.01208,-118.4679
+90501,Torrance,Los Angeles,CA,33.8336,-118.31419
+90502,Torrance,Los Angeles,CA,33.83497,-118.29291
+90503,Torrance,Los Angeles,CA,33.84089,-118.3538
+90504,Torrance,Los Angeles,CA,33.86693,-118.33135
+90505,Torrance,Los Angeles,CA,33.80904,-118.34775
+90506,Torrance,Los Angeles,CA,33.88493,-118.33044
+90601,Whittier,Los Angeles,CA,34.0078,-118.03287
+90602,Whittier,Los Angeles,CA,33.97317,-118.02341
+90603,Whittier,Los Angeles,CA,33.94487,-117.99239
+90604,Whittier,Los Angeles,CA,33.93012,-118.01226
+90605,Whittier,Los Angeles,CA,33.95209,-118.02085
+90606,Whittier,Los Angeles,CA,33.97742,-118.0661
+90638,La Mirada,Los Angeles,CA,33.90236,-118.00907
+90639,La Mirada,Los Angeles,CA,33.90565,-118.01499
+90640,Montebello,Los Angeles,CA,34.01506,-118.111
+90650,Norwalk,Los Angeles,CA,33.90703,-118.08249
+90660,Pico Rivera,Los Angeles,CA,33.98868,-118.09111
+90670,Santa Fe Springs,Los Angeles,CA,33.93279,-118.0626
+90701,Artesia,Los Angeles,CA,33.8676,-118.08055
+90703,Cerritos,Los Angeles,CA,33.86797,-118.06874
+90704,Avalon,Los Angeles,CA,33.3765,-118.43678
+90706,Bellflower,Los Angeles,CA,33.88802,-118.12709
+90710,Harbor City,Los Angeles,CA,33.79806,-118.29918
+90712,Lakewood,Los Angeles,CA,33.849,-118.14677
+90713,Lakewood,Los Angeles,CA,33.84797,-118.11268
+90715,Lakewood,Los Angeles,CA,33.84037,-118.07887
+90716,Hawaiian Gardens,Los Angeles,CA,33.8305,-118.07295
+90717,Lomita,Los Angeles,CA,33.79345,-118.31706
+90723,Paramount,Los Angeles,CA,33.89768,-118.16508
+90731,San Pedro,Los Angeles,CA,33.7334,-118.27398
+90732,San Pedro,Los Angeles,CA,33.74319,-118.31048
+90744,Wilmington,Los Angeles,CA,33.77821,-118.26087
+90745,Carson,Los Angeles,CA,33.82117,-118.26458
+90746,Carson,Los Angeles,CA,33.85855,-118.25518
+90747,Carson,Los Angeles,CA,33.86372,-118.25142
+90755,Signal Hill,Los Angeles,CA,33.80274,-118.16747
+90802,Long Beach,Los Angeles,CA,33.75035,-118.21143
+90803,Long Beach,Los Angeles,CA,33.76162,-118.12178
+90804,Long Beach,Los Angeles,CA,33.78223,-118.14917
+90805,Long Beach,Los Angeles,CA,33.86494,-118.18051
+90806,Long Beach,Los Angeles,CA,33.80819,-118.17797
+90807,Long Beach,Los Angeles,CA,33.83098,-118.18113
+90808,Long Beach,Los Angeles,CA,33.82406,-118.11236
+90810,Long Beach,Los Angeles,CA,33.81912,-118.22096
+90813,Long Beach,Los Angeles,CA,33.78237,-118.19656
+90814,Long Beach,Los Angeles,CA,33.7716,-118.14351
+90815,Long Beach,Los Angeles,CA,33.79572,-118.11592
+90822,Long Beach,Los Angeles,CA,33.77825,-118.11871
+90831,Long Beach,Los Angeles,CA,33.76824,-118.20055
+90840,Long Beach,Los Angeles,CA,33.78449,-118.12133
+91001,Altadena,Los Angeles,CA,34.19522,-118.13866
+91006,Arcadia,Los Angeles,CA,34.1352,-118.02667
+91007,Arcadia,Los Angeles,CA,34.12842,-118.04818
+91008,Duarte,Los Angeles,CA,34.15363,-117.96862
+91010,Duarte,Los Angeles,CA,34.14114,-117.95918
+91011,La Canada Flintridge,Los Angeles,CA,34.21757,-118.20346
+91016,Monrovia,Los Angeles,CA,34.15246,-118.00065
+91020,Montrose,Los Angeles,CA,34.21144,-118.23065
+91024,Sierra Madre,Los Angeles,CA,34.17177,-118.04654
+91030,South Pasadena,Los Angeles,CA,34.11029,-118.15748
+91040,Sunland,Los Angeles,CA,34.25861,-118.33468
+91042,Tujunga,Los Angeles,CA,34.30687,-118.25701
+91046,Verdugo City,Los Angeles,CA,34.2117,-118.24092
+91101,Pasadena,Los Angeles,CA,34.14671,-118.13895
+91103,Pasadena,Los Angeles,CA,34.16738,-118.16446
+91104,Pasadena,Los Angeles,CA,34.16766,-118.12341
+91105,Pasadena,Los Angeles,CA,34.14045,-118.16716
+91106,Pasadena,Los Angeles,CA,34.13861,-118.12825
+91107,Pasadena,Los Angeles,CA,34.15919,-118.08688
+91108,San Marino,Los Angeles,CA,34.12232,-118.11363
+91125,Pasadena,Los Angeles,CA,34.13772,-118.12492
+91201,Glendale,Los Angeles,CA,34.17041,-118.28902
+91202,Glendale,Los Angeles,CA,34.18221,-118.26761
+91203,Glendale,Los Angeles,CA,34.15287,-118.26355
+91204,Glendale,Los Angeles,CA,34.13554,-118.26093
+91205,Glendale,Los Angeles,CA,34.13679,-118.24339
+91206,Glendale,Los Angeles,CA,34.16076,-118.21311
+91207,Glendale,Los Angeles,CA,34.16872,-118.24477
+91208,Glendale,Los Angeles,CA,34.19333,-118.23839
+91210,Glendale,Los Angeles,CA,34.14468,-118.25809
+91214,La Crescenta,Los Angeles,CA,34.23759,-118.24778
+91301,Agoura Hills,Los Angeles,CA,34.12314,-118.75685
+91302,Calabasas,Los Angeles,CA,34.12295,-118.67193
+91303,Canoga Park,Los Angeles,CA,34.19784,-118.6017
+91304,Canoga Park,Los Angeles,CA,34.22472,-118.63261
+91306,Winnetka,Los Angeles,CA,34.20926,-118.5755
+91307,West Hills,Los Angeles,CA,34.20177,-118.66226
+91311,Chatsworth,Los Angeles,CA,34.29011,-118.60776
+91316,Encino,Los Angeles,CA,34.15836,-118.51658
+91321,Newhall,Los Angeles,CA,34.36479,-118.4922
+91324,Northridge,Los Angeles,CA,34.23855,-118.55015
+91325,Northridge,Los Angeles,CA,34.23636,-118.51777
+91326,Porter Ranch,Los Angeles,CA,34.28022,-118.5566
+91330,Northridge,Los Angeles,CA,34.2446,-118.52669
+91331,Pacoima,Los Angeles,CA,34.25602,-118.41939
+91335,Reseda,Los Angeles,CA,34.20107,-118.5407
+91340,San Fernando,Los Angeles,CA,34.28668,-118.43479
+91342,Sylmar,Los Angeles,CA,34.31778,-118.39207
+91343,North Hills,Los Angeles,CA,34.23837,-118.48076
+91344,Granada Hills,Los Angeles,CA,34.28991,-118.5047
+91345,Mission Hills,Los Angeles,CA,34.26591,-118.45948
+91350,Santa Clarita,Los Angeles,CA,34.43028,-118.50283
+91351,Canyon Country,Los Angeles,CA,34.43269,-118.46276
+91352,Sun Valley,Los Angeles,CA,34.23183,-118.36596
+91354,Valencia,Los Angeles,CA,34.46039,-118.5528
+91355,Valencia,Los Angeles,CA,34.42379,-118.58437
+91356,Tarzana,Los Angeles,CA,34.15504,-118.54757
+91364,Woodland Hills,Los Angeles,CA,34.1548,-118.59492
+91367,Woodland Hills,Los Angeles,CA,34.17708,-118.61518
+91371,Woodland Hills,Los Angeles,CA,34.18505,-118.57605
+91381,Stevenson Ranch,Los Angeles,CA,34.3753,-118.60744
+91384,Castaic,Los Angeles,CA,34.51604,-118.67289
+91387,Canyon Country,Los Angeles,CA,34.39708,-118.3707
+91390,Santa Clarita,Los Angeles,CA,34.53159,-118.40668
+91401,Van Nuys,Los Angeles,CA,34.17801,-118.43183
+91402,Panorama City,Los Angeles,CA,34.22413,-118.4448
+91403,Sherman Oaks,Los Angeles,CA,34.14716,-118.46311
+91405,Van Nuys,Los Angeles,CA,34.20153,-118.44863
+91406,Van Nuys,Los Angeles,CA,34.19791,-118.48987
+91411,Van Nuys,Los Angeles,CA,34.17853,-118.45956
+91423,Sherman Oaks,Los Angeles,CA,34.14924,-118.43239
+91436,Encino,Los Angeles,CA,34.15219,-118.49053
+91501,Burbank,Los Angeles,CA,34.19469,-118.29431
+91502,Burbank,Los Angeles,CA,34.17684,-118.30936
+91504,Burbank,Los Angeles,CA,34.21349,-118.31478
+91505,Burbank,Los Angeles,CA,34.17583,-118.34692
+91506,Burbank,Los Angeles,CA,34.17134,-118.32384
+91601,North Hollywood,Los Angeles,CA,34.16827,-118.37222
+91602,North Hollywood,Los Angeles,CA,34.15078,-118.36633
+91604,Studio City,Los Angeles,CA,34.13985,-118.39435
+91605,North Hollywood,Los Angeles,CA,34.20699,-118.40067
+91606,North Hollywood,Los Angeles,CA,34.18655,-118.38867
+91607,Valley Village,Los Angeles,CA,34.16633,-118.39982
+91608,Universal City,Los Angeles,CA,34.13839,-118.35272
+91702,Azusa,Los Angeles,CA,34.24129,-117.82614
+91706,Baldwin Park,Los Angeles,CA,34.09627,-117.96855
+91711,Claremont,Los Angeles,CA,34.12836,-117.71523
+91722,Covina,Los Angeles,CA,34.09731,-117.90612
+91723,Covina,Los Angeles,CA,34.08495,-117.88652
+91724,Covina,Los Angeles,CA,34.0805,-117.85515
+91731,El Monte,Los Angeles,CA,34.07914,-118.04047
+91732,El Monte,Los Angeles,CA,34.07239,-118.01455
+91733,South El Monte,Los Angeles,CA,34.0454,-118.05314
+91740,Glendora,Los Angeles,CA,34.11884,-117.8534
+91741,Glendora,Los Angeles,CA,34.1647,-117.83197
+91744,La Puente,Los Angeles,CA,34.02914,-117.93735
+91745,Hacienda Heights,Los Angeles,CA,33.99926,-117.97225
+91746,La Puente,Los Angeles,CA,34.04397,-117.98785
+91748,Rowland Heights,Los Angeles,CA,33.9769,-117.89924
+91750,La Verne,Los Angeles,CA,34.14927,-117.76647
+91754,Monterey Park,Los Angeles,CA,34.051,-118.14451
+91755,Monterey Park,Los Angeles,CA,34.04832,-118.11496
+91759,Mt Baldy,Los Angeles,CA,34.2541,-117.69194
+91765,Diamond Bar,Los Angeles,CA,33.98725,-117.81473
+91766,Pomona,Los Angeles,CA,34.04192,-117.75698
+91767,Pomona,Los Angeles,CA,34.08143,-117.73868
+91768,Pomona,Los Angeles,CA,34.06358,-117.78941
+91770,Rosemead,Los Angeles,CA,34.06395,-118.08361
+91773,San Dimas,Los Angeles,CA,34.1072,-117.80928
+91775,San Gabriel,Los Angeles,CA,34.11454,-118.08946
+91776,San Gabriel,Los Angeles,CA,34.08987,-118.09519
+91780,Temple City,Los Angeles,CA,34.10152,-118.05584
+91789,Walnut,Los Angeles,CA,34.01858,-117.85408
+91790,West Covina,Los Angeles,CA,34.06722,-117.93788
+91791,West Covina,Los Angeles,CA,34.06134,-117.89425
+91792,West Covina,Los Angeles,CA,34.02586,-117.89989
+91801,Alhambra,Los Angeles,CA,34.09093,-118.12776
+91803,Alhambra,Los Angeles,CA,34.0749,-118.14624
+92397,Wrightwood,Los Angeles,CA,34.36212,-117.69136
+93510,Acton,Los Angeles,CA,34.45627,-118.2109
+93532,Lake Hughes,Los Angeles,CA,34.68571,-118.55914
+93534,Lancaster,Los Angeles,CA,34.71759,-118.15079
+93535,Lancaster,Los Angeles,CA,34.69908,-117.89613
+93536,Lancaster,Los Angeles,CA,34.75267,-118.3889
+93543,Littlerock,Los Angeles,CA,34.47916,-117.97357
+93544,Llano,Los Angeles,CA,34.49063,-117.75505
+93550,Palmdale,Los Angeles,CA,34.38305,-118.04926
+93551,Palmdale,Los Angeles,CA,34.59404,-118.22634
+93552,Palmdale,Los Angeles,CA,34.58412,-118.02386
+93553,Pearblossom,Los Angeles,CA,34.44515,-117.89611
+93563,Valyermo,Los Angeles,CA,34.38662,-117.83646
+93591,Palmdale,Los Angeles,CA,34.59656,-117.80955
